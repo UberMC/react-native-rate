@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ubermc/Documents/GitHub/pocketsign/node_modules/react-native-rate/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ubermc/.gradle/caches/transforms-3/57ae3fa24887923701282b797c8c403d/transformed/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ubermc/Documents/GitHub/pocketsign/node_modules/react-native-rate/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ubermc/.gradle/caches/transforms-3/57ae3fa24887923701282b797c8c403d/transformed/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ubermc/Documents/GitHub/pocketsign/node_modules/react-native-rate/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/ubermc/.gradle/caches/transforms-3/57ae3fa24887923701282b797c8c403d/transformed/core-1.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ubermc/Documents/GitHub/pocketsign/node_modules/react-native-rate/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ubermc/.gradle/caches/transforms-3/57ae3fa24887923701282b797c8c403d/transformed/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

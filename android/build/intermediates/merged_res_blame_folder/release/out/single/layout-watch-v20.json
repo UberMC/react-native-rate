@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ubermc/Documents/GitHub/pocketsign/node_modules/react-native-rate/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/ubermc/.gradle/caches/transforms-3/2595846b70f624b727cc80669f449f09/transformed/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/ubermc/Documents/GitHub/pocketsign/node_modules/react-native-rate/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/ubermc/.gradle/caches/transforms-3/2595846b70f624b727cc80669f449f09/transformed/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]
